@@ -9,7 +9,7 @@ Description: The repository consists of below list of missing value and outlier 
 	2. Missing Value Treatment: Mean Imputation, Median Imputation
 
 Note:
-1. This scripts taking raw csv faile as a input source, however Hive integration is possible with very minimal changes 
+1. This scripts taking raw csv file as a input source, however Hive integration is possible with very minimal changes 
 2. User Input Section allows to set all parameters as well as data source specification. Users dont need to edit anything except this    section. This is a fully automated end to end code
 3. Final output is outlier treated and missing imputeted data frame
 
